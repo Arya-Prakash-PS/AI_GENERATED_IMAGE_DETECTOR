@@ -1,0 +1,7 @@
+torch
+torchvision
+flask
+flask-cors
+Pillow
+numpy
+scikit-learn
